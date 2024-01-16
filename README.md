@@ -1,4 +1,4 @@
-# Hi, I'm Ryan J. Cooke 👋 [Send me an email](mailto:your.email@example.com)
+# Hi, I'm Ryan J. Cooke 👋
 
 From a young age, I exhibited a keen interest and natural talent for computers, engaging in self-directed programming and quickly grasping new concepts from the age of 11.
 
@@ -38,6 +38,7 @@ For more information, please visit my detailed personal statement <a href="https
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ryan-j-cooke/)
 - [Eezze](https://eezze.io/) - Soon to launch!
+- [Send me an email](mailto:ryanjcooke@hotmail.com)
 
 ## Resume & Portfolio
 - [Resume](https://ryansresume.s3.amazonaws.com/resume.html)
