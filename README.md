@@ -1,4 +1,5 @@
-# Hi, I'm Ryan J. Cooke 👋
+# Hi, I'm Ryan J. Cooke 👋 [Send me an email](mailto:your.email@example.com)
+
 
 From a young age, I exhibited a keen interest and natural talent for computers, engaging in self-directed programming and quickly grasping new concepts from the age of 11.
 
