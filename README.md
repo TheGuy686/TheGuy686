@@ -42,6 +42,7 @@ For more information, please visit my detailed personal statement <a href="https
 - [Resume](https://ryansresume.s3.amazonaws.com/resume.html)
 - [Personal Statement](https://ryansresume.s3.amazonaws.com/personal-statement.html)
 - [Portfolio](https://ryansresume.s3.amazonaws.com/portfolio.html)
+<a href="https://example.com" target="_blank">Link Text</a>
 ---
 
 📬 I'm always open to collaborations and discussions on my projects!
