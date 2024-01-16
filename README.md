@@ -30,7 +30,8 @@ For more information, please visit my detailed personal statement <a href="https
 ## Coding Task Examples
 
 ### The below tasks cover the following technologies:
-- PHP, Laravel, VueJS, HTML, CSS, Ant Design and Docker
+**PHP, Laravel, VueJS, HTML, CSS, Ant Design and Docker**
+
 - [Coding Repository](https://github.com/TheGuy686/dd-coding-test)
 - [Task Description](https://github.com/DarksideDevelopments/darkside-tech-test)
 
