@@ -27,9 +27,6 @@ For more information, please visit my detailed personal statement <a href="https
 
 **Please see resume to view other skills**
 
-## Another List
-- [Item](https://google.com)
-
 ## Coding Task Examples
 
 ### The below tasks cover the following technologies:
