@@ -34,8 +34,6 @@ For more information, please visit my detailed personal statement <a href="https
 - [Coding Repository](https://github.com/TheGuy686/dd-coding-test)
 - [Task Description](https://github.com/DarksideDevelopments/darkside-tech-test)
 
-### ☁️ Another one
-
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ryan-j-cooke/)
