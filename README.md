@@ -30,9 +30,14 @@ For more information, please visit my detailed personal statement <a href="https
 ## Another List
 - [Item](https://google.com)
 
-## Featured Repositories
+## Coding Task Examples
+
+### 
+- [Resume](https://github.com/TheGuy686/dd-coding-test)
+https://github.com/DarksideDevelopments/darkside-tech-test
 
 ### ☁️ Another one
+
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ryan-j-cooke/)
