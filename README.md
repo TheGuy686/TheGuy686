@@ -35,13 +35,13 @@ For more information, please visit my detailed personal statement <a href="https
 ### ☁️ Another one
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ryan-j-cooke/)
-- [Eezze](https://eezze.io/) - Soon to launch!
+- [LinkedIn](https://www.linkedin.com/in/ryan-j-cooke/){:target="_blank"}
+- [Eezze](https://eezze.io/){:target="_blank"} - Soon to launch!
 
 ## Resume & Portfolio
-- [Resume](https://ryansresume.s3.amazonaws.com/resume.html)
-- [Personal Statement](https://ryansresume.s3.amazonaws.com/personal-statement.html)
-- [Portfolio](https://ryansresume.s3.amazonaws.com/portfolio.html)
+- [Resume](https://ryansresume.s3.amazonaws.com/resume.html){:target="_blank"}
+- [Personal Statement](https://ryansresume.s3.amazonaws.com/personal-statement.html){:target="_blank"}
+- [Portfolio](https://ryansresume.s3.amazonaws.com/portfolio.html){:target="_blank"}
 ---
 
 📬 I'm always open to collaborations and discussions on my projects!
