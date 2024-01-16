@@ -6,30 +6,27 @@ Description
 
 
 
-    [![Product Management](https://img.shields.io/badge/Product%20Management-%23F7B93E.svg?&style=for-the-badge&logo=product-hunt&logoColor=white)]
+![Product Management](https://img.shields.io/badge/Product%20Management-%23F7B93E.svg?&style=for-the-badge&logo=product-hunt&logoColor=white)
 
 
-    [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)]
-
-
-
-    [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)]
-
-    [![SQL](https://img.shields.io/badge/SQL-%23E34F26.svg?&style=for-the-badge&logo=sql&logoColor=white)]
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 
-    [![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white)]
+![SQL](https://img.shields.io/badge/SQL-%23E34F26.svg?&style=for-the-badge&logo=sql&logoColor=white)
 
 
 
 
-
-    [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]
-
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white)
 
 
+
+
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
@@ -39,10 +36,10 @@ Description
 
 
 
-    [![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)]
 
 
 
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
 
 
@@ -71,7 +68,10 @@ Description
 
 
 
-    [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)]
+
+
+
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 
 
