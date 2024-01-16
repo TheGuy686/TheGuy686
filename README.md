@@ -5,208 +5,208 @@ Description
 ## Skills
 
 
-    [object Object]
+    stakeholder-interaction
 
 
-    [object Object]
+    client-interaction
 
 
-    [object Object]
+    project-management
 
 
-    [object Object]
+    q-a-a
 
 
-    [object Object]
+    node-js
 
 
-    [object Object]
+    express-js
 
 
-    [object Object]
+    typescript
 
 
-    [object Object]
+    javascript
 
 
-    [object Object]
+    mysql
 
 
-    [object Object]
+    big-data
 
 
-    [object Object]
+    bash
 
 
-    [object Object]
+    docker
 
 
-    [object Object]
+    ansible
 
 
-    [object Object]
+    aws
 
 
-    [object Object]
+    gcp
 
 
-    [object Object]
+    azure
 
 
-    [object Object]
+    git
 
 
-    [object Object]
+    css
 
 
-    [object Object]
+    html
 
 
-    [object Object]
+    less
 
 
-    [object Object]
+    vite
 
 
-    [object Object]
+    vue-js
 
 
-    [object Object]
+    nuxt
 
 
-    [object Object]
+    ant-design
 
 
-    [object Object]
+    flutter
 
 
-    [object Object]
+    ats
 
 
-    [object Object]
+    transpiler
 
 
-    [object Object]
+    web-scraping
 
 
-    [object Object]
+    internationalization
 
 
-    [object Object]
+    vagrant
 
 
-    [object Object]
+    redis
 
 
-    [object Object]
+    react-web
 
 
-    [object Object]
+    ethers-js
 
 
-    [object Object]
+    tui
 
 
-    [object Object]
+    data-aggregation
 
 
-    [object Object]
+    scrum-master
 
 
-    [object Object]
+    documentation
 
 
-    [object Object]
+    mentoring
 
 
-    [object Object]
+    g-apis
 
 
-    [object Object]
+    firebase
 
 
-    [object Object]
+    c-s
 
 
-    [object Object]
+    dynamo-db
 
 
-    [object Object]
+    sass
 
 
-    [object Object]
+    pwa
 
 
-    [object Object]
+    qlik
 
 
-    [object Object]
+    react-native
 
 
-    [object Object]
+    php
 
 
-    [object Object]
+    laravel
 
 
-    [object Object]
+    cryptography
 
 
-    [object Object]
+    electron
 
 
-    [object Object]
+    fintech
 
 
-    [object Object]
+    qt
 
 
-    [object Object]
+    cpp
 
 
-    [object Object]
+    ocr
 
 
-    [object Object]
+    elasticsearch
 
 
-    [object Object]
+    wordpress
 
 
-    [object Object]
+    chrome-extension
 
 
-    [object Object]
+    xml
 
 
-    [object Object]
+    symfony
 
 
-    [object Object]
+    sso
 
 
-    [object Object]
+    cli
 
 
-    [object Object]
+    angular
 
 
-    [object Object]
+    bazaar
 
 
-    [object Object]
+    c
 
 
-    [object Object]
+    code-igniter
 
 
-    [object Object]
+    java
 
 
-    [object Object]
+    native-android
 
 
-    [object Object]
+    svn
 
 
 [![Build Status](https://img.shields.io/badge/Entrepreneur-%237D4698.svg?&style=for-the-badge&logo=entrepreneur&logoColor=green)](https://travis-ci.org/user/repo)
