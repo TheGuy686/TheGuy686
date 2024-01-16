@@ -4,7 +4,7 @@ Description
 
 ## Skills
 
-[![Build Status](https://img.shields.io/travis/user/repo.svg?color=green)](https://travis-ci.org/user/repo)
+[![Build Status](https://img.shields.io/badge/Entrepreneur-%237D4698.svg?&style=for-the-badge&logo=entrepreneur&logoColor=green)](https://travis-ci.org/user/repo)
 
 
 ## Another List
