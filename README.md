@@ -1,6 +1,5 @@
 # Hi, I'm Ryan J. Cooke 👋 [Send me an email](mailto:your.email@example.com)
 
-
 From a young age, I exhibited a keen interest and natural talent for computers, engaging in self-directed programming and quickly grasping new concepts from the age of 11.
 
 Through extensive involvement with startups, I've gained a profound understanding of diverse roles. This has equipped me to take on various responsibilities as required, ensuring adaptability and proficiency in tasks across different domains.
