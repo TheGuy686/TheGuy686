@@ -4,7 +4,7 @@ I'm Ryan Cooke, demonstrating a strong aptitude for computers since age 11 throu
 Through extensive involvement with startups, I've gained a profound understanding of diverse roles. This has equipped me to take on various responsibilities as required, ensuring adaptability and proficiency in tasks across different domains.
 In corporate settings like Ebuyer & Outsourcify, I've recognized the significance of maintaining a proactive, solution-oriented mindset. This not only enhances task efficiency but also fuels my commitment to continuous learning and improvement.
 With these skills and my proficiency in multiple languages, I am confident in providing substantial value to any team. As a highly motivated and adaptable individual, I am poised to contribute effectively to any project or organization seeking these qualities.
-For more information, please visit my detailed personal statement <a href="https://ryansresume.s3.amazonaws.com/personal-statement.html">here</a>
+For more information, please visit my detailed personal statement <a href="https://ryansresume.s3.amazonaws.com/personal-statement.html" target="_blank">here</a>
 
 ## Top Skills
 
