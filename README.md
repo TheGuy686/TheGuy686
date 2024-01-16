@@ -5,6 +5,210 @@ Description
 ## Skills
 
 
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
+    [object Object]
+
+
 [![Build Status](https://img.shields.io/badge/Entrepreneur-%237D4698.svg?&style=for-the-badge&logo=entrepreneur&logoColor=green)](https://travis-ci.org/user/repo)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
