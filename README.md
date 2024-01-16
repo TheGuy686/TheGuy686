@@ -1,6 +1,6 @@
 # Hi, I'm Ryan J. Cooke 👋
 
-Description
+
 
 ## Top Skills
 
